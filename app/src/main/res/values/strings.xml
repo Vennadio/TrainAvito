@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="date">Дата:</string>
+    <string name="temperature">Темп:</string>
+    <string name="search">поиск</string>
+    <string name="today">Сегодня</string>
+    <string name="for_a_week">На неделю</string>
+    <string name="city_not_found">По такому городу данных нет</string>
+    <string name="nothing_to_geocode">По таким координатам данных нет</string>
+    <string name="empty_request">Пустой запрос</string>
+    <string name="here">Функция не работает</string>
+    <string name="check_network">Проверьте соединение с интернетом</string>
+    <string name="failed_to_get_data">Не удалось получить данные, попробуйте еще раз</string>
+</resources>
